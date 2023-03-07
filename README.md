@@ -4,4 +4,4 @@
 
 
 **개발 url**
-- (https://kimwonhee626.github.io/blog-test/)
+- (https://github.dev/kimwonhee626/blog-test)
